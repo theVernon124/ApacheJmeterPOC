@@ -1,0 +1,47 @@
+2018-05-08 15:24:28,051 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2018-05-08 15:24:28,080 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-05-08 15:24:28,082 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-05-08 15:24:28,090 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2018-05-08 15:24:28,090 INFO o.a.j.JMeter: Version 4.0 r1823414
+2018-05-08 15:24:28,090 INFO o.a.j.JMeter: java.version=1.8.0_144
+2018-05-08 15:24:28,090 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-05-08 15:24:28,090 INFO o.a.j.JMeter: os.name=Mac OS X
+2018-05-08 15:24:28,090 INFO o.a.j.JMeter: os.arch=x86_64
+2018-05-08 15:24:28,091 INFO o.a.j.JMeter: os.version=10.12.6
+2018-05-08 15:24:28,091 INFO o.a.j.JMeter: file.encoding=UTF-8
+2018-05-08 15:24:28,091 INFO o.a.j.JMeter: Max memory     =3817865216
+2018-05-08 15:24:28,091 INFO o.a.j.JMeter: Available Processors =4
+2018-05-08 15:24:28,096 INFO o.a.j.JMeter: Default Locale=English (United States)
+2018-05-08 15:24:28,097 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2018-05-08 15:24:28,097 INFO o.a.j.JMeter: JMeterHome=/Users/VernonCenzon/Documents/apache-jmeter-4.0
+2018-05-08 15:24:28,097 INFO o.a.j.JMeter: user.dir  =/Users/VernonCenzon/Documents/apache-jmeter-4.0/bin
+2018-05-08 15:24:28,097 INFO o.a.j.JMeter: PWD       =/Users/VernonCenzon/Documents/apache-jmeter-4.0/bin
+2018-05-08 15:24:28,099 INFO o.a.j.JMeter: IP: 10.100.216.149 Name: Admins-MacBook-Pro.local FullName: 10.100.216.149
+2018-05-08 15:24:29,990 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2018-05-08 15:24:30,016 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2018-05-08 15:24:30,016 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2018-05-08 15:24:30,147 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2018-05-08 15:24:30,905 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-05-08 15:24:30,905 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-05-08 15:24:33,452 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-08 15:24:33,453 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-08 15:24:33,453 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-08 15:24:33,453 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-08 15:24:33,453 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-05-08 15:24:33,453 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-05-08 15:24:33,937 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2018-05-08 15:24:33,937 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/VernonCenzon/Documents/apache-jmeter-4.0/bin/proxyserver.jks
+2018-05-08 15:24:34,143 INFO o.a.j.s.FileServer: Default base='/Users/VernonCenzon/Documents/apache-jmeter-4.0/bin'
+2018-05-08 15:24:34,772 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-05-08 15:24:34,772 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-05-08 15:24:34,772 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-05-08 15:24:34,772 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-05-08 15:24:45,027 INFO o.a.j.g.a.Load: Loading file: /Users/VernonCenzon/Documents/apache-jmeter-4.0/tests/Digisoria-Shopfront-Load-Test.jmx
+2018-05-08 15:24:45,028 INFO o.a.j.s.FileServer: Set new base='/Users/VernonCenzon/Documents/apache-jmeter-4.0/tests'
+2018-05-08 15:24:45,144 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-05-08 15:24:45,160 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-05-08 15:24:45,163 INFO o.a.j.s.SaveService: Using SaveService properties version 4.0
+2018-05-08 15:24:45,167 INFO o.a.j.s.SaveService: Loading file: /Users/VernonCenzon/Documents/apache-jmeter-4.0/tests/Digisoria-Shopfront-Load-Test.jmx
+2018-05-08 15:24:45,197 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2018-05-08 15:24:45,199 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2018-05-08 15:24:45,378 INFO o.a.j.s.FileServer: Set new base='/Users/VernonCenzon/Documents/apache-jmeter-4.0/tests'
